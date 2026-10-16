@@ -1,39 +1,53 @@
-# Discord Developer Platform Skill
+# Discord Developers
 
-This is the `discord-developers` skill for Agent Kaizen: an original-prose reference package derived from the Discord Developer Platform documentation, with endpoint names, object fields, opcodes, intent values, permission bit flags, OAuth2 scopes, and other identifiers preserved exactly.
-
-## What this skill covers
-
-This skill covers building on the Discord developer platform: bots and apps, slash/application commands and interactions (buttons, select menus, modals, message components), and the HTTP/REST API and Gateway (WebSocket) with opcodes, intents, and events. It spans REST resources including application, channel, message, guild, user, webhook, emoji, sticker, invite, voice, audit-log, auto-moderation, poll, role-connection, scheduled-event, stage-instance, soundboard, and SKU/entitlement/subscription. It also covers OAuth2 and bot authorization, permissions and permission bit flags, embeds, snowflake IDs, rate limits, monetization, Rich Presence, embedded Activities (the Embedded App SDK), and the C/C++ Discord Social SDK.
-
-## What's inside
-
-- `SKILL.md` - the trigger description, when-to-use guidance, and workflow for navigating the reference.
-- `references/` - one focused file per subject, plus `INDEX.md` and `topics.json` metadata to find the right page.
-- `GOTCHA.md` - recurring failure modes, including point-in-time API behavior, Discord's `?`/`?field?` optional/nullable notation, and the separate Discord documentation surfaces.
-
-## Use it
-
-The published skill lives at `<devroot>\SKILLS\skills\discord-developers` and is linked into each agent surface as a per-skill junction. Edit the store copy directly; do not copy it through `.agents` or `.claude`.
-
-## Status
-
-The reference prose has been recontextualized into original AGPL-licensable wording. Upstream identifiers are intentionally preserved verbatim.
-
-## Reducing idle context cost (skill invocation policy)
-
-Every installed skill costs a little context on every session: the agent sees each skill's name and description before you ever use it. If you rarely use this skill in a given project, you can keep it installed and still explicitly invocable while hiding it from the model's automatic listing.
-
-Doing so does **not** modify this skill's source repo — the policy lives in your local agent settings. The Agent Kaizen **[skill-drafting](https://github.com/DirectorGunner/AI-skill-drafting)** repo ships a manager, `scripts/skill_policy.py`, that sets this for all your skills at once:
-
-```bash
-python skill_policy.py audit     # list every skill + its current policy + idle cost
-python skill_policy.py plan      # write a decision file with recommendations (nothing applied)
-# edit that decision file: set selected_policy + approved:true for the skills you choose
-python skill_policy.py preview   # show the exact change
-python skill_policy.py apply     # apply ONLY what you approved (backup + rollback recorded)
-python skill_policy.py restore   # roll back
+```mermaid
+---
+config:
+  flowchart:
+    wrappingWidth: 400
+---
+flowchart LR
+    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
+    skill("Discord Developers"):::skill
+    first(["Apps + Interactions"]):::topic
+    second(["Gateway + APIs"]):::topic
+    third(["Activities + Social SDK"]):::accent
+    brand --- skill
+    skill --- first
+    skill --- second
+    skill --- third
+    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
+    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
+    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
+    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
+    linkStyle default stroke:#38bdf8,stroke-width:1px
 ```
 
-- **Claude Code (works today):** writes `skillOverrides: { "<skill>": "user-invocable-only" }` to `.claude/settings.local.json` — zero idle listing cost, still available from the `/skills` menu. Start a new session for it to take effect; invoke it any time via `/skills`.
-- **Codex (currently unreliable):** explicit-only Codex skills are affected by an open bug ([openai/codex#23454](https://github.com/openai/codex/issues/23454)) where `$skill` invocation of an explicit-only local skill can fail. Until it's fixed, leave Codex skills implicit, or fully disable rarely-used ones with `[[skills.config]] enabled = false` in `config.toml`. The manager audits Codex but does not change Codex policy.
+Discord developer references for applications, bots, embedded Activities and game integrations. The package organizes API contracts and lifecycle guidance by feature, helping an agent connect requests, events, permissions and responses without treating every Discord interface as interchangeable.
+
+Use when building Discord apps or bots: HTTP/REST endpoints and objects, Gateway events/intents/opcodes, commands, interactions, message/modal components, OAuth2, permissions, rate limits, webhooks, guilds, channels, users, messages, monetization, Activities/Embedded App SDK, Rich Presence or C++/Unity/Unreal Social SDK integration. Use for exact fields, parameters, responses, scopes and lifecycle contracts. Not for ordinary end-user Discord use or unrelated services.
+
+## What this skill helps with
+
+| Task | Useful reference material |
+| --- | --- |
+| [Implement commands and interactions](references/interactions-index.md) | Find command definitions, interaction responses and related component workflows. |
+| [Handle events and API transport](references/gateway-index.md) | Check Gateway delivery and follow the HTTP/authentication references for REST operations. |
+| [Build embedded Activities](references/activities-index.md) | Locate Activity lifecycle and Embedded App SDK integration guidance. |
+| [Integrate game and social features](references/native-sdk-index.md) | Select the native or engine SDK material relevant to the application. |
+
+## The work behind the references
+
+The documentation is interpreted into subject catalogs with explicit API fields, setup links and version conditions. Dated changes have their own chronological catalog, while current-task routes lead to the corresponding API or SDK subject.
+
+## Start here
+
+Start with [SKILL.md](SKILL.md) and follow its context routes.
+
+Read the [API contract guidance](references/api/reading-contracts.md) when checking authorization, delivery mode or version-specific behavior. Bundled snapshots and examples do not establish current service behavior or prove a native integration has been executed.
+
+## Sources and license
+
+Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://docs.discord.com/developers/intro) when dealing with defects or issues that may come up from interpreting this skill's references.
+
+Licensed under **AGPL-3.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.
