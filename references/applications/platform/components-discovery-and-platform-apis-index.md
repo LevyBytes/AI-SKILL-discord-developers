@@ -80,4 +80,4 @@ Further Reading
 Further Reading
 <a id="webhook-events-1"></a> - [Open when reading Webhook Events](incoming-webhooks-webhook-events.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

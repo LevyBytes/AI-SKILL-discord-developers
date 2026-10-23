@@ -12,4 +12,4 @@ Entitlement Create Dispatch Data Structure; Entitlement Object; Entitlement Type
 <a id="entitlement_delete"></a> <a id="entitlement-delete-dispatch-data-structure"></a> <a id="example-entitlement-delete-dispatch-payload"></a> - [Open when reading ENTITLEMENT_DELETE](commands-and-events-entitlement-delete.md).
 Entitlement Delete Dispatch Data Structure; Example Entitlement Delete Dispatch Payload
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

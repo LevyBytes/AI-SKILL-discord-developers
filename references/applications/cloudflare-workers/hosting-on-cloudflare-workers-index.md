@@ -17,4 +17,4 @@ Open when checking hosting a Discord interaction app on Cloudflare Workers with 
 <a id="code-deep-dive"></a> - [Open when reading Code deep dive](code-deep-dive.md).
 <a id="next-steps"></a> - [Open when reading Next steps](next-steps.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

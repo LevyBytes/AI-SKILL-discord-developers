@@ -26,4 +26,4 @@ JSON Error Codes
 RPC Error Codes
 <a id="rpc-close-event-codes"></a> - [Open when reading RPC Close Event Codes](rpc-close-event-codes.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

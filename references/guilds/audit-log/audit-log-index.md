@@ -14,4 +14,4 @@ Audit Log Change Structure; Audit Log Change Exceptions
 <a id="get-guild-audit-log"></a> <a id="query-string-params"></a> - [Open when reading Get Guild Audit Log](get-guild-audit-log.md).
 Query String Params
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

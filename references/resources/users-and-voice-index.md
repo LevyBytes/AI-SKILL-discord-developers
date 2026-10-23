@@ -48,4 +48,4 @@ JSON Params; Caveats
 <a id="modify-user-voice-state"></a> <a id="json-params-5"></a> <a id="caveats-1"></a> - [Open when reading Modify User Voice State](../gateway/voice-states/modify-user-voice-state.md).
 JSON Params; Caveats
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of this skill's references other than English.

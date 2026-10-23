@@ -22,4 +22,4 @@ Application Command Permissions Object; Application Command Permissions Structur
 <a id="example-of-editing-permissions"></a> - [Open when reading Example of editing permissions](example-of-editing-permissions.md).
 <a id="slash-commands"></a> - [Open when reading Slash Commands](slash-commands.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

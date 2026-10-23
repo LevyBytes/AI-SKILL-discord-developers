@@ -15,4 +15,4 @@ Resources
 <a id="report-issues-on-github"></a> - [Open when reading Report Issues on GitHub](report-issues-on-git-hub.md).
 <a id="visit-the-developer-help-center"></a> - [Open when reading Visit the Developer Help Center](visit-the-developer-help-center.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

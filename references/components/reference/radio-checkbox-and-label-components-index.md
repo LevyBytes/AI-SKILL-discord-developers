@@ -22,4 +22,4 @@ Unfurled Media Item Structure; Unfurled Media Item Flags
 <a id="uploading-a-file"></a> - [Open when reading Uploading a file](uploading-a-file.md).
 <a id="legacy-message-component-behavior"></a> - [Open when reading Legacy Message Component Behavior](legacy-message-component-behavior.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

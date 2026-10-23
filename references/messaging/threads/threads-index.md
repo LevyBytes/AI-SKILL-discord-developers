@@ -33,4 +33,4 @@ Channel Access
 <a id="forum-and-media-channel-thread-fields"></a> - [Open when reading Forum and Media Channel Thread Fields](forum-and-media-channel-thread-fields.md).
 <a id="forum-and-media-channel-formatting"></a> - [Open when reading Forum and Media Channel Formatting](forum-and-media-channel-formatting.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

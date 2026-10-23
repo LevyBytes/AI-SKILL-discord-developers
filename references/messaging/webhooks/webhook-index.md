@@ -31,4 +31,4 @@ Query String Params; JSON/Form Params
 <a id="delete-webhook-message"></a> <a id="query-string-params-5"></a> - [Open when reading Delete Webhook Message](delete-webhook-message.md).
 Query String Params
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

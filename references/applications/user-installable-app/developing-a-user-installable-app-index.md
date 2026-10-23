@@ -27,4 +27,4 @@ Install to server; Install to user account
 <a id="interactions-documentation"></a> - [Open when reading Interactions documentation](interactions-documentation.md).
 <a id="github-repository"></a> - [Open when reading Github repository](github-repository.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

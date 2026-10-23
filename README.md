@@ -25,7 +25,7 @@ flowchart LR
 
 Discord developer references for applications, bots, embedded Activities and game integrations. The package organizes API contracts and lifecycle guidance by feature, helping an agent connect requests, events, permissions and responses without treating every Discord interface as interchangeable.
 
-Use when building Discord apps or bots: HTTP/REST endpoints and objects, Gateway events/intents/opcodes, commands, interactions, message/modal components, OAuth2, permissions, rate limits, webhooks, guilds, channels, users, messages, monetization, Activities/Embedded App SDK, Rich Presence or C++/Unity/Unreal Social SDK integration. Use for exact fields, parameters, responses, scopes and lifecycle contracts. Not for ordinary end-user Discord use or unrelated services.
+Use when building Discord apps or bots: HTTP/REST endpoints and objects, Gateway events/intents/opcodes, commands, interactions, message/modal components, OAuth2, permissions, rate limits, webhooks, guilds, channels, users, messages, monetization, Activities/Embedded App SDK, Rich Presence or C++/Unity/Unreal Social SDK integration. Not for ordinary end-user Discord use or unrelated services.
 
 ## What this skill helps with
 
@@ -50,4 +50,4 @@ Read the [API contract guidance](references/api/reading-contracts.md) when check
 
 Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://docs.discord.com/developers/intro) when dealing with defects or issues that may come up from interpreting this skill's references.
 
-Licensed under **AGPL-3.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.
+Licensed under **Apache-2.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

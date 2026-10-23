@@ -32,4 +32,4 @@ Response Body
 <a id="create-message"></a> <a id="limitations"></a> <a id="jsonform-params"></a> - [Open when reading Create Message](create-message.md).
 Limitations; JSON/Form Params
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

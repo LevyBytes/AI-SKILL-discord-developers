@@ -12,4 +12,4 @@ Open when checking sending message components, nesting layouts, interaction resp
 <a id="prerequisites-1"></a> - [Open when reading Prerequisites](overview-prerequisites.md).
 <a id="displaying-a-modal"></a> - [Open when reading Displaying a Modal](displaying-a-modal.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

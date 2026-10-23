@@ -24,4 +24,4 @@ Example Entry Point Command
 <a id="locale-fallbacks"></a> - [Open when reading Locale fallbacks](locale-fallbacks.md).
 <a id="retrieving-localized-commands"></a> - [Open when reading Retrieving localized commands](retrieving-localized-commands.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

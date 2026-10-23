@@ -13,4 +13,4 @@ Open when checking complete game component/select-menu handler and first-app int
 <a id="developing-user-installable-apps"></a> - [Open when reading Developing User-Installable Apps](developing-user-installable-apps.md).
 <a id="discord-developers"></a> - [Open when reading Discord Developers](discord-developers.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

@@ -30,4 +30,4 @@ JSON Params
 <a id="edit-channel-permissions"></a> - [Open when reading Edit Channel Permissions](edit-channel-permissions.md).
 <a id="json-params-1"></a> - [Open when reading JSON Params](edit-channel-permissions-json-params.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

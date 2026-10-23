@@ -42,4 +42,4 @@ Message Poll Vote Remove Fields
 <a id="rate-limits"></a> <a id="rate-limited"></a> <a id="rate-limited-fields"></a> <a id="rate-limit-metadata-for-opcode-structure"></a> <a id="request-guild-member-rate-limit-metadata-structure"></a> - [Open when reading Rate Limited](rate-limits-rate-limited.md).
 Rate Limits; Rate Limited Fields; Rate Limit Metadata for Opcode Structure; Request Guild Member Rate Limit Metadata Structure
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

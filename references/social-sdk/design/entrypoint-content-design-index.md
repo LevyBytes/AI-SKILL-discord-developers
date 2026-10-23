@@ -28,4 +28,4 @@ Open when checking Social SDK user settings, status presentation and cross-platf
 <a id="resources-2"></a> - [Open when reading Resources](figma-file-the-social-sdk-friend-list-starter-pack-resources.md).
 <a id="change-log-2"></a> - [Open when reading Change Log](figma-file-the-social-sdk-friend-list-starter-pack-change-log.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

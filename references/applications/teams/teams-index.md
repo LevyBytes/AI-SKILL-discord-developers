@@ -12,4 +12,4 @@ Team Member Role Types
 <a id="data-models"></a> <a id="team-object"></a> <a id="team-member-object"></a> <a id="membership-state-enum"></a> - [Open when reading Team Object](data-models-team-object.md).
 Data Models; Team Member Object; Membership State Enum
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

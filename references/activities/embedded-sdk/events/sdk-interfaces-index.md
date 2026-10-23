@@ -33,4 +33,4 @@ SDK Interfaces
 - [Open when reading GuildMember](sdk-interfaces-guild-member.md).
 - [Open when reading GuildMemberRPC](guild-member-rpc.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of this skill's references other than English.

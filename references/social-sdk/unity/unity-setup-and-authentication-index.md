@@ -32,6 +32,6 @@ Troubleshooting
 <a id="testing-it-out-1"></a> - [Open when reading Testing It Out](relationships-testing.md).
 <a id="example-output"></a> - [Open when reading Example Output](example-output.md).
 <a id="troubleshooting-3"></a> - [Open when reading Troubleshooting](relationships-troubleshooting.md).
-- [Open when reading DiscordManager.cs complete integration through relationships — Unity client setup, status and friends-count callback](relationships-manager-lifecycle.md).
+- [Open when reading DiscordManager.cs complete integration through relationships - Unity client setup, status and friends-count callback](relationships-manager-lifecycle.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

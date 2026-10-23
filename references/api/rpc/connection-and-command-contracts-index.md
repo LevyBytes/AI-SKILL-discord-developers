@@ -40,4 +40,4 @@ Select Text Channel Argument Structure
 GET_VOICE_SETTINGS; Voice Settings Input Object
 <a id="voice-settings-output-object"></a> - [Open when reading Voice Settings Output Object](voice-settings-output-object.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

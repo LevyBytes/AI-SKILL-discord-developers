@@ -45,4 +45,4 @@ Prompting Users to Purchase an Item
 <a id="testing-your-one-time-purchase-implementation"></a> - [Open when reading Testing Your One-Time Purchase Implementation](testing-your-one-time-purchase-implementation.md).
 <a id="using-application-test-mode"></a> - [Open when reading Using Application Test Mode](using-application-test-mode.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

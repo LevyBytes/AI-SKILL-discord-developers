@@ -32,7 +32,7 @@ Open when checking Social SDK branding, authorization, friends, consoles, chat, 
 <a id="change-log-4"></a> - [Open when reading Change Log](badge-when-online-elsewhere-change-log.md).
 <a id="user-needs"></a> - [Open when reading User needs](user-needs.md).
 <a id="user-needs-1"></a> - [Open when reading User needs](user-needs.md).
-<a id="game-friends--a-new-tier"></a> - [Open when reading Game Friends — A new tier](game-friends-a-new-tier.md).
+<a id="game-friends--a-new-tier"></a> - [Open when reading Game Friends - A new tier](game-friends-a-new-tier.md).
 <a id="game-vs-discord-friends"></a> <a id="communication"></a> - [Open when reading Communication](user-needs-communication.md).
 Game vs Discord Friends
 <a id="presence"></a> - [Open when reading Presence](user-needs-presence.md).
@@ -80,4 +80,4 @@ Style guidelines
 <a id="resources-7"></a> - [Open when reading Resources](overall-flow-resources.md).
 <a id="change-log-9"></a> - [Open when reading Change Log](overall-flow-change-log.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

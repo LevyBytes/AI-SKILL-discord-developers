@@ -31,4 +31,4 @@ Common API Operations
 <a id="design-guidelines-for-rich-presence"></a> - [Open when reading Design Guidelines for Rich Presence](../http-integration/design-guidelines-for-rich-presence.md).
 <a id="change-log-1"></a> - [Open when reading Change Log](../http-integration/overview-change-log.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

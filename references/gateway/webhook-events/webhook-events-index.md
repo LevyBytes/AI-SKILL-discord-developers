@@ -46,4 +46,4 @@ Additional Fields
 <a id="sdk-dm-message-object"></a> <a id="sdk-dm-message-structure"></a> - [Open when reading SDK DM Message Object](sdk-dm-message-object.md).
 SDK DM Message Structure
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

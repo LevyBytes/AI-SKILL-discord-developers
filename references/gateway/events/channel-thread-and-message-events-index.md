@@ -90,4 +90,4 @@ Message Reaction Add Event Fields
 Message Reaction Remove Event Fields
 <a id="message-reaction-remove-all"></a> - [Open when reading Message Reaction Remove All](message-reaction-remove-all.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

@@ -8,8 +8,6 @@ Context: DiscordSocialUnrealCharacter.cpp complete Unreal Social SDK integration
 
 The full DiscordSocialUnrealCharacter.cpp
 ```
-// Copyright Epic Games, Inc. All Rights Reserved.
-
 #include "DiscordSocialUnrealCharacter.h"
 #include "Engine/LocalPlayer.h"
 #include "Camera/CameraComponent.h"

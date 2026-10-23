@@ -24,4 +24,4 @@ Extended Bot Authorization Access Token Example
 <a id="webhooks"></a> <a id="url-example-1"></a> - [Open when reading Webhooks](webhooks.md).
 URL Example
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

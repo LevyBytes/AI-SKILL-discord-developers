@@ -39,4 +39,4 @@ Next Steps
 <a id="use-the-discord-username-as-a-fallback"></a> - [Open when reading Use the Discord Username as a Fallback](../display-names/use-the-discord-username-as-a-fallback.md).
 <a id="change-log-3"></a> - [Open when reading Change Log](../display-names/use-a-font-family-that-supports-unicode-change-log.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

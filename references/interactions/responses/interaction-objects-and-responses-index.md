@@ -24,4 +24,4 @@ Query String Params
 <a id="edit-original-interaction-response"></a> - [Open when reading Edit Original Interaction Response](edit-original-interaction-response.md).
 <a id="delete-original-interaction-response"></a> - [Open when reading Delete Original Interaction Response](delete-original-interaction-response.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

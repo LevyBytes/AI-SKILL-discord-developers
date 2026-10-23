@@ -32,4 +32,4 @@ Application Role Connection Metadata Object; Application Role Connection Metadat
 <a id="get-application-role-connection-metadata-records"></a> - [Open when reading Get Application Role Connection Metadata Records](get-application-role-connection-metadata-records.md).
 <a id="update-application-role-connection-metadata-records"></a> - [Open when reading Update Application Role Connection Metadata Records](update-application-role-connection-metadata-records.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

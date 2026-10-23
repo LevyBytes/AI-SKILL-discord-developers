@@ -27,4 +27,4 @@ JSON Params
 <a id="query-string-params"></a> - [Open when reading Query String Params](../monetization/subscriptions/query-string-params.md).
 <a id="get-sku-subscription"></a> - [Open when reading Get SKU Subscription](../monetization/subscriptions/get-sku-subscription.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of this skill's references other than English.

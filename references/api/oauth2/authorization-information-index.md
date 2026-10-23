@@ -8,4 +8,4 @@ Webhook Token Response Example
 <a id="get-current-authorization-information"></a> <a id="response-structure"></a> <a id="example-authorization-information"></a> - [Open when reading Get Current Authorization Information](get-current-authorization-information.md).
 Response Structure; Example Authorization Information
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

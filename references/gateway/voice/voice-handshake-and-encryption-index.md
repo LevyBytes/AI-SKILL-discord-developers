@@ -35,4 +35,4 @@ Example Ready Payload; Example Select Protocol Payload
 <a id="sender-key-derivation"></a> - [Open when reading Sender Key Derivation](sender-key-derivation.md).
 <a id="nonce"></a> - [Open when reading Nonce](frame-encryption-nonce.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

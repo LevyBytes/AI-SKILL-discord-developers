@@ -11,4 +11,4 @@ JSON Response; Example Response
 <a id="session-start-limit-object"></a> <a id="session-start-limit-structure"></a> - [Open when reading Session Start Limit Structure](session-start-limit-structure.md).
 Session Start Limit Object
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

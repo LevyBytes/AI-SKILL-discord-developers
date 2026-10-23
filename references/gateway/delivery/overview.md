@@ -3,7 +3,7 @@ Context: Discord developer reference: Overview
 [Source](event-delivery-index.md) / [Following source section](receiving-events.md)
 <a id="source-events--overview"></a>
 
-# Events — Overview
+# Events - Overview
 
 > Discord Developers reference. Original prose; identifiers preserved verbatim.
 

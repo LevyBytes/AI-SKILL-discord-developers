@@ -6,4 +6,4 @@ Open when checking Embedded App SDK setup, methods, commands, authentication, Ac
 - [Open when reading Required Scopes](activity-layout-mode-update-required-scopes.md).
 - [Open when reading Sample Event Payload](activity-layout-mode-update-sample-event-payload.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of this skill's references other than English.

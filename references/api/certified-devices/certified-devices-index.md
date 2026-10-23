@@ -15,4 +15,4 @@ WebSocket Example; RPC Response Example
 <a id="models"></a> <a id="device-object"></a> <a id="vendor-object"></a> <a id="model-object"></a> <a id="device-type"></a> - [Open when reading Device Object](models-device-object.md).
 Models; Vendor Object; Model Object; Device Type
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

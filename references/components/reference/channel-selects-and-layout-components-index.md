@@ -26,4 +26,4 @@ Label Structure; Label Child Components; Label Interaction Response Structure; L
 <a id="file-upload"></a> <a id="file-upload-structure"></a> <a id="file-upload-interaction-response-structure"></a> <a id="examples-8"></a> - [Open when reading File Upload](file-upload.md).
 File Upload Structure; File Upload Interaction Response Structure; Examples
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

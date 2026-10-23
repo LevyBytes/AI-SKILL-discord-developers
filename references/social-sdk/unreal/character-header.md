@@ -4,8 +4,6 @@ Context: DiscordSocialUnrealCharacter.cpp complete Unreal Social SDK integration
 [Reviewed program owner and required setup](set-rich-presence.md) / [Reviewed program owner and required setup](module-build-configuration.md) / [Previous source section](character-header-context.md) / [Following source section](conclusion.md)
 
 ```
-// Copyright Epic Games, Inc. All Rights Reserved.
-
 #pragma once
 
 #include "CoreMinimal.h"

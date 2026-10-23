@@ -16,4 +16,4 @@ Start Building
 <a id="social-layer-for-games-1"></a> - [Open when reading Social Layer for Games](social-layer-for-games.md).
 <a id="activities-1"></a> - [Open when reading Activities](activities.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

@@ -51,4 +51,4 @@ Lobby Member Structure; Lobby Member Flags; Example Lobby Object
 Lobby Invite Object
 <a id="development-rate-limits"></a> - [Open when reading Development Rate Limits](lobbies/development-rate-limits.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of this skill's references other than English.

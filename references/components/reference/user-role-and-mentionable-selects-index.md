@@ -18,4 +18,4 @@ Mentionable Select Structure; Mentionable Select Interaction Response Structure;
 <a id="channel-select"></a> <a id="channel-select-structure"></a> <a id="channel-select-interaction-response-structure"></a> <a id="examples-3"></a> - [Open when reading Channel Select](channel-select.md).
 Channel Select Structure; Channel Select Interaction Response Structure; Examples
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

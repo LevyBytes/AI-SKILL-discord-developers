@@ -45,4 +45,4 @@ SDK Enums
 <a id="skutypeobject"></a> - [Open when reading SkuTypeObject](interfaces/sku-type-object.md).
 <a id="relationship-types"></a> - [Open when reading Relationship Types](interfaces/sdk-enums-relationship-types.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

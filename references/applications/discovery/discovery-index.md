@@ -37,4 +37,4 @@ General Housekeeping
 <a id="enabling-discovery"></a> - [Open when reading Enabling Discovery](app-directory-enabling-discovery.md).
 <a id="discovery-best-practices-1"></a> - [Open when reading Discovery Best Practices](discovery-best-practices.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

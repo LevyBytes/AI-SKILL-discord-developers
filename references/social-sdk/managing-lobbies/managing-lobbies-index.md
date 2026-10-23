@@ -27,4 +27,4 @@ Open when checking Social SDK lobby creation, membership, messages and game sess
 <a id="voice-muting-based-on-player-blocks"></a> - [Open when reading Voice Muting Based on Player Blocks](voice-muting-based-on-player-blocks.md).
 <a id="change-log"></a> - [Open when reading Change Log](change-log.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

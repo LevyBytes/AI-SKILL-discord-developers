@@ -3,7 +3,7 @@ Context: Discord developer reference: Overview
 [Source](bot-development-index.md) / [Following source section](getting-started.md)
 <a id="source-bots--overview"></a>
 
-# Bots — Overview
+# Bots - Overview
 
 > Discord Developers reference. Original prose; identifiers preserved verbatim.
 

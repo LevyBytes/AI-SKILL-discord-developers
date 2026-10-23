@@ -45,4 +45,4 @@ Feature Access and Conveyance
 <a id="development-guides"></a> - [Open when reading Development Guides](messaging-communication-development-guides.md).
 <a id="change-log-1"></a> - [Open when reading Change Log](messaging-communication-change-log.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

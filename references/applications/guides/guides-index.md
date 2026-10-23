@@ -37,4 +37,4 @@ Getting Started; Guides
 Game Development Guides
 <a id="game-development-guides"></a>
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

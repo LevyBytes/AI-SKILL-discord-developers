@@ -59,4 +59,4 @@ Activity Invite Dispatch Data Structure; Example Activity Invite Dispatch Payloa
 Current User Update Dispatch Data Structure; Example Current User Update Dispatch Payload
 <a id="relationship_update"></a> - [Open when reading RELATIONSHIP_UPDATE](commands-and-events-relationship-update.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

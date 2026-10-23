@@ -29,4 +29,4 @@ Example Identify Payload
 Example Gateway Resume Event
 <a id="gateway-intents"></a> - [Open when reading Gateway Intents](gateway-intents.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

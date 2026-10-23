@@ -28,4 +28,4 @@ Reaction Count Details Structure
 Embed Object; Embed Types; Embed Flags
 <a id="embed-video-structure"></a> - [Open when reading Embed Video Structure](embed-video-structure.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

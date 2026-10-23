@@ -40,4 +40,4 @@ Prompting Users to Subscribe
 Testing Your App Subscription Implementation
 <a id="using-live-entitlements"></a> - [Open when reading Using Live Entitlements](using-live-entitlements.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

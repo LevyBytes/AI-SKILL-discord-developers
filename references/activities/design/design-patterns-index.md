@@ -45,4 +45,4 @@ Quality and Testing
 <a id="mobile-device-ui-considerations"></a> - [Open when reading Mobile Device UI Considerations](mobile-device-ui-considerations.md).
 <a id="desktop-accessibility-guidelines"></a> - [Open when reading Desktop Accessibility Guidelines](desktop-accessibility-guidelines.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

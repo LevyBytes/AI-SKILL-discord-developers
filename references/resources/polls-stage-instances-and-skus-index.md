@@ -50,4 +50,4 @@ JSON Params
 JSON Params
 <a id="delete-stage-instance"></a> - [Open when reading Delete Stage Instance](../guilds/stage-instances/delete-stage-instance.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of this skill's references other than English.

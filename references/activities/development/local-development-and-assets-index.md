@@ -76,4 +76,4 @@ Application Orientation
 <a id="subscribing-to-screen-orientation-updates"></a> - [Open when reading Subscribing to Screen Orientation Updates](subscribing-to-screen-orientation-updates.md).
 <a id="application-layout-mode-1"></a> - [Open when reading Application Layout Mode](application-layout-mode.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

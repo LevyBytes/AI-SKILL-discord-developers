@@ -8,4 +8,4 @@ Open when checking Embedded App SDK setup, methods, commands, authentication, Ac
 - [Open when reading Usage](set-config-usage.md).
 Signature
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of this skill's references other than English.

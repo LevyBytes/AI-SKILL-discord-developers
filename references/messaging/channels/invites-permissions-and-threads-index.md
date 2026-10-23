@@ -35,4 +35,4 @@ Query String Params; Response Body
 <a id="list-joined-private-archived-threads"></a> <a id="query-string-params-4"></a> <a id="response-body-2"></a> - [Open when reading List Joined Private Archived Threads](list-joined-private-archived-threads.md).
 Query String Params; Response Body
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

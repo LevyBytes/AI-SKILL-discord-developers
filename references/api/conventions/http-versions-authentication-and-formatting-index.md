@@ -30,4 +30,4 @@ Example Attachment CDN URL; Attachment CDN URL Parameters
 <a id="editing-message-attachments"></a> - [Open when reading Editing Message Attachments](editing-message-attachments.md).
 <a id="locales"></a> - [Open when reading Locales](locales.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

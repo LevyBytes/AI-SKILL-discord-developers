@@ -3,7 +3,7 @@ Context: Discord developer reference: Overview
 [Source](social-sdk-features-index.md) / [Following source section](core-concepts.md)
 <a id="source-discord-social-sdk--overview"></a>
 
-# Discord Social Sdk — Overview
+# Discord Social Sdk - Overview
 
 > Discord Developers reference. Original prose; identifiers preserved verbatim.
 

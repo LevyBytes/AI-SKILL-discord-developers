@@ -17,4 +17,4 @@ Open when checking Activity external links, invite/share dialogs, entry-point co
 <a id="usage-3"></a> - [Open when reading Usage](encourage-hardware-acceleration-usage.md).
 <a id="user-experience-1"></a> - [Open when reading User Experience](encourage-hardware-acceleration-user-experience.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

@@ -56,4 +56,4 @@ JSON Params
 JSON Params
 <a id="delete-guild-template"></a> - [Open when reading Delete Guild Template](../guilds/templates/delete-guild-template.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of this skill's references other than English.

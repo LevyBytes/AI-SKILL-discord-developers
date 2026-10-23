@@ -24,4 +24,4 @@ Overview
 <a id="mobile-safe-areas"></a> - [Open when reading Mobile Safe Areas](mobile-safe-areas.md).
 <a id="mobile-thermal-states"></a> - [Open when reading Mobile Thermal States](mobile-thermal-states.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

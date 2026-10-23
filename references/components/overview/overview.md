@@ -3,7 +3,7 @@ Context: Discord developer reference: Overview
 [Source](message-and-modal-components-index.md) / [Following source section](using-message-components.md)
 <a id="source-components--overview"></a>
 
-# Components — Overview
+# Components - Overview
 
 > Discord Developers reference. Original prose; identifiers preserved verbatim.
 

@@ -26,4 +26,4 @@ Security Considerations
 <a id="backward-compatibility"></a> <a id="new-commands"></a> - [Open when reading New Commands](backward-compatibility-new-commands.md).
 Backward Compatibility
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

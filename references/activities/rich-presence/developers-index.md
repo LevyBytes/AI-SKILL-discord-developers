@@ -21,4 +21,4 @@ Understanding Rich Presence Data
 <a id="get-access-to-social-commerce"></a> - [Open when reading Get Access to Social Commerce](get-access-to-social-commerce.md).
 <a id="request-access-to-social-commerce"></a> - [Open when reading Request Access to Social Commerce](request-access-to-social-commerce.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

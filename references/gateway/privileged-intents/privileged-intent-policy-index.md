@@ -46,4 +46,4 @@ Message Content Intent
 <a id="decision-checklist-2"></a> - [Open when reading Decision checklist](message-content-intent-decision.md).
 <a id="further-reading"></a> - [Open when reading Further Reading](who-does-this-apply-to-further-reading.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

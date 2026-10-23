@@ -33,4 +33,4 @@ Welcome Screen Object; Welcome Screen Channel Structure; Example Welcome Screen
 Guild Onboarding Structure; Onboarding Prompt Structure; Prompt Option Structure; Onboarding Mode; Prompt Types
 <a id="example-guild-onboarding"></a> - [Open when reading Example Guild Onboarding](example-guild-onboarding.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

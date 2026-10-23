@@ -9,4 +9,4 @@ Open when checking interaction response/follow-up endpoint parameters and editin
 <a id="edit-followup-message"></a> - [Open when reading Edit Followup Message](edit-followup-message.md).
 <a id="delete-followup-message"></a> - [Open when reading Delete Followup Message](delete-followup-message.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

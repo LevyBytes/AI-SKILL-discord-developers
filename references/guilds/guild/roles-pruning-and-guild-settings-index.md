@@ -33,4 +33,4 @@ JSON Params
 <a id="modify-guild-incident-actions"></a> <a id="json-params-5"></a> - [Open when reading Modify Guild Incident Actions](modify-guild-incident-actions.md).
 JSON Params
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

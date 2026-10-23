@@ -14,4 +14,4 @@ Role Structure; Role Tags Structure; Role Colors Object; Default Role Colors Obj
 <a id="role-flags"></a> - [Open when reading Role Flags](role-object-role-flags.md).
 <a id="permissions-for-timed-out-members"></a> - [Open when reading Permissions For Timed Out Members](permissions-for-timed-out-members.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

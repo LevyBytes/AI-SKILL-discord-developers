@@ -34,4 +34,4 @@ Overview
 <a id="subscription-skus"></a> - [Open when reading Subscription SKUs](types-of-skus-subscription-skus.md).
 <a id="next-steps"></a> - [Open when reading Next Steps](components-of-a-premium-app-next-steps.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

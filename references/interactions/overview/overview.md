@@ -3,7 +3,7 @@ Context: Discord developer reference: Overview
 [Source](interaction-types-index.md) / [Following source section](types-of-interactions.md)
 <a id="source-interactions--overview"></a>
 
-# Interactions — Overview
+# Interactions - Overview
 
 > Discord Developers reference. Original prose; identifiers preserved verbatim.
 

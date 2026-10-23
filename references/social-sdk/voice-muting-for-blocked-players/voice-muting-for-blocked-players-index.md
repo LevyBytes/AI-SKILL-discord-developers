@@ -22,4 +22,4 @@ Next Steps
 <a id="managing-relationships"></a> - [Open when reading Managing Relationships](managing-relationships.md).
 <a id="change-log"></a> - [Open when reading Change Log](change-log.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

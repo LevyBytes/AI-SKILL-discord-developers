@@ -28,6 +28,6 @@ Step 5: Project Setup
 <a id="what-this-code-does-1"></a> - [Open when reading What This Code Does](rich-presence-result.md).
 <a id="testing-it-out-2"></a> - [Open when reading Testing It Out](rich-presence-testing.md).
 <a id="troubleshooting-2"></a> - [Open when reading Troubleshooting](module-build-configuration.md).
-- [Open when reading DiscordSocialUnrealCharacter.cpp complete integration — Unreal Social SDK includes, application ID and complete connection callbacks](character-sdk-callbacks.md).
+- [Open when reading DiscordSocialUnrealCharacter.cpp complete integration - Unreal Social SDK includes, application ID and complete connection callbacks](character-sdk-callbacks.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

@@ -51,4 +51,4 @@ Example Response
 <a id="create-guild-role"></a> - [Open when reading Create Guild Role](create-guild-role.md).
 <a id="json-params-9"></a> - [Open when reading JSON Params](create-guild-role-json-params.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

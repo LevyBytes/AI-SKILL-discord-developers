@@ -1,4 +1,4 @@
-# Complete permissions command with user and role subcommand groups — [Source](subcommands-and-localization-index.md) / [Exact example stage and preceding setup](example-walkthrough.md) / [Command option explanation](example-walkthrough.md)
+# Complete permissions command with user and role subcommand groups - [Source](subcommands-and-localization-index.md) / [Exact example stage and preceding setup](example-walkthrough.md) / [Command option explanation](example-walkthrough.md)
 ```
 {
     "name": "permissions",

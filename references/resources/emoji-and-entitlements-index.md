@@ -31,4 +31,4 @@ Query String Params
 JSON Params
 <a id="delete-test-entitlement"></a> - [Open when reading Delete Test Entitlement](../monetization/entitlements/delete-test-entitlement.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of this skill's references other than English.

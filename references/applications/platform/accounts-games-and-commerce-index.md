@@ -66,4 +66,4 @@ Next Steps
 <a id="create-a-community-for-your-game"></a> - [Open when reading Create a Community For Your Game](create-a-community-for-your-game.md).
 <a id="community-management-guides"></a> - [Open when reading Community Management Guides](community-management-guides.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

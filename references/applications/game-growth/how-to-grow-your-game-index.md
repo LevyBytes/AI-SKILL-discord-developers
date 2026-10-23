@@ -11,4 +11,4 @@ Open when checking using Discord developer capabilities to support game growth a
 <a id="existing-game"></a> - [Open when reading Existing game:](existing-game.md).
 <a id="live-game-with-an-existing-community"></a> - [Open when reading Live game with an existing community:](live-game-with-an-existing-community.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

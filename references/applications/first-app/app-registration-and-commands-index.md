@@ -21,4 +21,4 @@ Install to server; Install to user account
 <a id="step-4-adding-message-components"></a> - [Open when reading Step 4: Adding message components](adding-message-components.md).
 <a id="adding-a-command-with-options"></a> - [Open when reading Adding a command with options](adding-a-command-with-options.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

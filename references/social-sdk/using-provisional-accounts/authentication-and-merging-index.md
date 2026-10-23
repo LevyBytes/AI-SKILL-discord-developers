@@ -34,4 +34,4 @@ Desktop & Mobile
 <a id="console"></a> <a id="request-body-parameters-1"></a> - [Open when reading Request Body Parameters](console-request-body-parameters.md).
 Console
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

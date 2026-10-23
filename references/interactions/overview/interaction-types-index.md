@@ -15,4 +15,4 @@ Validating Security Request Headers
 <a id="adding-an-interactions-endpoint-url"></a> - [Open when reading Adding an Interactions Endpoint URL](adding-an-interactions-endpoint-url.md).
 <a id="handling-interactions"></a> - [Open when reading Handling Interactions](handling-interactions.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

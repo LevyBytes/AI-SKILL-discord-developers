@@ -12,4 +12,4 @@ Next Steps
 <a id="webhook-events"></a> - [Open when reading Webhook Events](webhook-events.md).
 <a id="embedded-app-sdk-events"></a> - [Open when reading Embedded App SDK Events](embedded-app-sdk-events.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

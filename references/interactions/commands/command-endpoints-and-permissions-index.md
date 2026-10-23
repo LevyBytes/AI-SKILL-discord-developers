@@ -31,4 +31,4 @@ JSON Params
 JSON Params
 <a id="batch-edit-application-command-permissions"></a> - [Open when reading Batch Edit Application Command Permissions](batch-edit-application-command-permissions.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

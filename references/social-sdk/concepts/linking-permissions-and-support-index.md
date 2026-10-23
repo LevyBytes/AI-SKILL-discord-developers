@@ -50,4 +50,4 @@ Next Steps
 <a id="getting-started-3"></a> - [Open when reading Getting Started](release-schedule-getting-started.md).
 <a id="change-log-5"></a> - [Open when reading Change Log](release-schedule-change-log.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

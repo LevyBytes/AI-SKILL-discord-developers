@@ -23,4 +23,4 @@ Open when checking Social SDK friends, relationships, requests and relationship 
 <a id="managing-lobbies"></a> - [Open when reading Managing Lobbies](managing-lobbies.md).
 <a id="change-log"></a> - [Open when reading Change Log](change-log.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

@@ -21,4 +21,4 @@ Open when checking role-granting and targeted community invites with complete ex
 <a id="invites"></a> - [Open when reading Invites](invites.md).
 <a id="create-channel-invite"></a> - [Open when reading Create Channel Invite](create-channel-invite.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

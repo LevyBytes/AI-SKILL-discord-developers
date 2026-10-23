@@ -10,4 +10,4 @@ Rate Limit Response Structure; Example Exceeded User Rate Limit Response; Exampl
 <a id="global-rate-limit"></a> - [Open when reading Global Rate Limit](global-rate-limit.md).
 <a id="invalid-request-limit-aka-cloudflare-bans"></a> - [Open when reading Invalid Request Limit aka Cloudflare bans](invalid-request-limit-aka-cloudflare-bans.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

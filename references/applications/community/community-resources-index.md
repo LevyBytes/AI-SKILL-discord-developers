@@ -14,4 +14,4 @@ Discord Libraries
 <a id="api-types"></a> - [Open when reading API Types](api-types.md).
 <a id="game-sdk-tools"></a> - [Open when reading Game SDK Tools](game-sdk-tools.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

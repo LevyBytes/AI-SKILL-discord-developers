@@ -23,4 +23,4 @@ Overview
 <a id="embedded-app-sdk-playground"></a> - [Open when reading Embedded App SDK Playground](embedded-app-sdk-playground.md).
 <a id="nested-framework-app"></a> - [Open when reading Nested Framework App](nested-framework-app.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

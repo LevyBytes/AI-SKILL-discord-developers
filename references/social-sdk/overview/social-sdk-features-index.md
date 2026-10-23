@@ -13,4 +13,4 @@ Dive Deeper into the Discord Social SDK
 <a id="communication-features"></a> - [Open when reading Communication Features](communication-features.md).
 <a id="get-help--join-the-community"></a> - [Open when reading Get Help & Join the Community](get-help-join-the-community.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

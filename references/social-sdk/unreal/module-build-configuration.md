@@ -16,8 +16,6 @@ Context: Discord developer reference: Module build configuration
 The full DiscordSocialUnreal.Build.cs
 
 ```
-// Copyright Epic Games, Inc. All Rights Reserved.
-
 using UnrealBuildTool;
 
 public class DiscordSocialUnreal : ModuleRules

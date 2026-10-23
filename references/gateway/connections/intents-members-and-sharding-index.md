@@ -29,4 +29,4 @@ Transport Compression Example
 <a id="sharding"></a> <a id="sharding-formula"></a> <a id="max-concurrency"></a> - [Open when reading Sharding](sharding.md).
 Sharding Formula; Max Concurrency
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

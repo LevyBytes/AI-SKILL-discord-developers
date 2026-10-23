@@ -21,4 +21,4 @@ Open when checking continuing provisional-account integration, linking and accou
 <a id="setting-rich-presence"></a> - [Open when reading Setting Rich Presence](setting-rich-presence.md).
 <a id="change-log"></a> - [Open when reading Change Log](change-log.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

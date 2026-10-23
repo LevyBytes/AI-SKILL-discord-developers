@@ -9,4 +9,4 @@ Open when checking choosing standalone C++, Unity or Unreal Social SDK setup.
 <a id="unreal-engine"></a> - [Open when reading Unreal Engine](unreal-engine.md).
 <a id="next-steps"></a> - [Open when reading Next Steps](next-steps.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

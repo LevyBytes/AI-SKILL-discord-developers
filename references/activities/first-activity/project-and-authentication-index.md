@@ -25,4 +25,4 @@ Open when checking creating an Activity project/app, URL mapping, Embedded App S
 <a id="calling-external-resources-from-your-activity"></a> - [Open when reading Calling external resources from your activity](calling-external-resources-from-your-activity.md).
 <a id="calling-your-backend-server-from-your-client"></a> - [Open when reading Calling your backend server from your client](calling-your-backend-server-from-your-client.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

@@ -40,4 +40,4 @@ Entry Points & Account Linking Flows
 <a id="designing-for-consoles"></a> - [Open when reading Designing for Consoles](../console-authorization/designing-for-consoles.md).
 <a id="change-log-1"></a> - [Open when reading Change Log](../console-authorization/overview-change-log.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

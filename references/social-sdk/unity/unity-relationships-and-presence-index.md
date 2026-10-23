@@ -2,7 +2,7 @@
 
 Open when checking complete Unity friends-count and Rich Presence manager implementations.
 
-<a id="using-unity-part-2"></a> - [Open when reading DiscordManager.cs complete integration through relationships — Unity client setup, status and friends-count callback](relationships-manager-lifecycle.md).
+<a id="using-unity-part-2"></a> - [Open when reading DiscordManager.cs complete integration through relationships - Unity client setup, status and friends-count callback](relationships-manager-lifecycle.md).
 - [Open when reading Unity complete OAuth and token methods](relationships-manager-oauth.md).
 - [Open when reading Step 10: Set Rich Presence](set-rich-presence.md).
 <a id="step-10-set-rich-presence"></a>
@@ -23,4 +23,4 @@ Next Steps
 <a id="managing-game-invites"></a> - [Open when reading Managing Game Invites](managing-game-invites.md).
 <a id="change-log"></a> - [Open when reading Change Log](change-log.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

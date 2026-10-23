@@ -25,4 +25,4 @@ Query String Params; Response Structure; Example
 <a id="pin-message-deprecated"></a> - [Open when reading Pin Message (deprecated)](pin-message-deprecated.md).
 <a id="unpin-message-deprecated"></a> - [Open when reading Unpin Message (deprecated)](unpin-message-deprecated.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of this skill's references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of this skill's references other than English.

@@ -1,4 +1,4 @@
-# Complete message-component acceptance and select-menu handler — [Source](buttons-select-menus-and-game-results-index.md) / [Exact example stage and preceding setup](select-menu-game-results-and-followup.md) / [Handler continuation](select-menu-game-results-and-followup.md) / [Application imports, helpers and request server setup](getting-started.md) / [Reviewed program owner and required setup](adding-a-command-with-options.md)
+# Complete message-component acceptance and select-menu handler - [Source](buttons-select-menus-and-game-results-index.md) / [Exact example stage and preceding setup](select-menu-game-results-and-followup.md) / [Handler continuation](select-menu-game-results-and-followup.md) / [Application imports, helpers and request server setup](getting-started.md) / [Reviewed program owner and required setup](adding-a-command-with-options.md)
 Context: Keep98-line handler whole with at most2 added physical lines. Header/context links must reach helper/import/request/game-state prerequisites and71–73/174 explanation. This is an enclosing request-handler fragment, not a standalone server.
 ```
 if (type === InteractionType.MESSAGE_COMPONENT) {
